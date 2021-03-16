@@ -1,0 +1,12 @@
+E:\Git\P2_ Phonebook\Phonebook\Phonebook\bin\Debug\Telbook.mdf
+E:\Git\P2_ Phonebook\Phonebook\Phonebook\bin\Debug\Telbook_log.ldf
+E:\Git\P2_ Phonebook\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+E:\Git\P2_ Phonebook\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+E:\Git\P2_ Phonebook\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+E:\Git\P2_ Phonebook\Phonebook\Phonebook\obj\Debug\Phonebook.csprojAssemblyReference.cache
+E:\Git\P2_ Phonebook\Phonebook\Phonebook\obj\Debug\Phonebook.Form1.resources
+E:\Git\P2_ Phonebook\Phonebook\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+E:\Git\P2_ Phonebook\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.cache
+E:\Git\P2_ Phonebook\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.CoreCompileInputs.cache
+E:\Git\P2_ Phonebook\Phonebook\Phonebook\obj\Debug\Phonebook.exe
+E:\Git\P2_ Phonebook\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
