@@ -10,3 +10,15 @@ E:\Git\P2_ Phonebook\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.GenerateReso
 E:\Git\P2_ Phonebook\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.CoreCompileInputs.cache
 E:\Git\P2_ Phonebook\Phonebook\Phonebook\obj\Debug\Phonebook.exe
 E:\Git\P2_ Phonebook\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
+E:\E\Git\P2_ Phonebook\Phonebook\Phonebook\bin\Debug\Telbook.mdf
+E:\E\Git\P2_ Phonebook\Phonebook\Phonebook\bin\Debug\Telbook_log.ldf
+E:\E\Git\P2_ Phonebook\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+E:\E\Git\P2_ Phonebook\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+E:\E\Git\P2_ Phonebook\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+E:\E\Git\P2_ Phonebook\Phonebook\Phonebook\obj\Debug\Phonebook.csprojAssemblyReference.cache
+E:\E\Git\P2_ Phonebook\Phonebook\Phonebook\obj\Debug\Phonebook.Form1.resources
+E:\E\Git\P2_ Phonebook\Phonebook\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+E:\E\Git\P2_ Phonebook\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.cache
+E:\E\Git\P2_ Phonebook\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.CoreCompileInputs.cache
+E:\E\Git\P2_ Phonebook\Phonebook\Phonebook\obj\Debug\Phonebook.exe
+E:\E\Git\P2_ Phonebook\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
